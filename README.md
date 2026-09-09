@@ -1,6 +1,9 @@
-# Lagos Eatery Sales and Profitability Analysis
+# Precious Kitchen Eatery Sales and Profitability Analysis
 
 ![Excel dashboard preview](assets/dashboard-preview.png)
+
+
+![Precious Kitchen preview](assets/precious-kitchen.png)
 
 ## Project overview
 
