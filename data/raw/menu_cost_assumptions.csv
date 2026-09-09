@@ -1,0 +1,13 @@
+Item Code,Dish,Category,Unit Price (₦),Unit Cost (₦),Opening Stock (portions)
+FD001,White Rice & Stew,Rice Meals,1800,820,35
+FD002,Jollof Rice & Chicken,Rice Meals,2800,1450,32
+FD003,Fried Rice & Chicken,Rice Meals,3000,1580,28
+FD004,Beans & Plantain,Traditional Meals,2000,960,24
+FD005,Yam Porridge,Traditional Meals,2200,1050,22
+FD006,Eba & Egusi Soup,Swallow,2600,1320,26
+FD007,Amala & Ewedu,Swallow,2500,1250,20
+FD008,Pounded Yam & Vegetable Soup,Swallow,3200,1710,18
+FD009,Moi Moi,Sides,900,380,30
+FD010,Soft Drink,Beverages,600,280,45
+FD011,Bottled Water,Beverages,300,120,60
+FD012,Fried Plantain,Sides,700,300,35
